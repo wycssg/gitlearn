@@ -3,4 +3,8 @@ hrrlo:
 change:
   123
 change2:
+<<<<<<< HEAD
  ohoho
+=======
+  hahah
+>>>>>>> feature1
